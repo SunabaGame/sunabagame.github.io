@@ -5,6 +5,7 @@
 layout: home
 ---
 
+# Home
 ## The open source 3D sandbox game
 
 
