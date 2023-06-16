@@ -11,9 +11,9 @@ title: Home
 
 Sunaba is a 3D sandbox game with user-generated map support. Powered by Godot 4
 
-[Download Now](https://github.com/TheSunabaProject/sunaba/releases)
+[Download Now](https://github.com/m1ntkat/sunaba/releases)
 
-[Source Code ](https://github.com/TheSunabaProject/sunaba)
+[Source Code ](https://github.com/m1ntkat/sunaba)
 
 ## Features
 
