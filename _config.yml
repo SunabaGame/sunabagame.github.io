@@ -2,13 +2,13 @@ title: sunaba
 email: sunabagame@gmail.com
 description: >-
   The open source 3D sandbox game
-domain: m1ntkat.github.io 
-baseurl: "/sunaba-site"
-url: "https://m1ntkat.github.io"
+domain: sunaba.rocks 
+baseurl: "/"
+url: "https://sunaba.rocks"
 twitter_username: mintkatDev
 github_username:  m1ntkat
 
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
