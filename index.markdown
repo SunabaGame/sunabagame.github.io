@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+# title: Home
 ---
 
-## The open source 3D sandbox game
+## A 3D First and Third Person Singleplayer and Multiplayer Sandbox game
 
 
 Sunaba is a 3D First and Third Person Singleplayer and Multiplayer Sandbox game centered on User Generated Content. Inspired by games such as LittleBigPlanet, Roblox, Minecraft and Garry's Mod.
