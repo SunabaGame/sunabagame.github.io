@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-# title: Home
+title: Home
 ---
 
 ## A 3D First and Third Person Singleplayer and Multiplayer Sandbox game
