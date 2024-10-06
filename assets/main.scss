@@ -14,3 +14,34 @@ pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
 	width: 37px;
 	top: 8px;
 }
+
+body {
+	font-family: 'Oxygen', sans-serif;
+}  
+h1, h2, h3, h4, h5, .site-nav {
+	font-family: 'Fredoka', sans-serif;
+} 
+.site-title, .footer-heading {
+	font-family: 'Fredoka', sans-serif;
+	font-weight: bold;
+}
+
+.footer-heading {
+	font-size: 24px;
+}
+
+.site-footer {
+	background-color: #333333;
+	color: white;
+}
+
+.site-header {
+	border-top: 5px solid #333333;
+	background-color: #a0bbff;
+}
+
+.site-nav .page-link {
+	color: #FFFFFF;
+	line-height: 1.5;
+	font-weight: 500;
+}
