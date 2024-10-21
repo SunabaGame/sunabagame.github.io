@@ -16,7 +16,7 @@ At this time of writing, it is posible to create a basic walking simulator using
 ![](/assets/images/devlog-walking-simulator.gif)
 ![](/assets/images/Screenshot_2024-10-20_200001.png)
 
-The scene system is based on a Object-Compoment model, similar to one found in the Unity game engine. Custom scripts extend the `Compoment` class
+The scene system is based on a Object-Compoment model, similar to one found in the Unity game engine. Custom scripts extend the `Component` class
 
 ```js
 import { Component } from "assets://sceneToolkit/sceneGraph.js";
