@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Devlog 1 : Custom Scene System"
-date:   2024-10-20 19:49:00 -0800
+date:   2024-10-20 23:00:00 -0800
 categories: devlog update
 ---
 
-Hello, this is the firest devlog of my game 'Sunaba'.
+Hello, this is the first devlog of my game 'Sunaba'.
 
 In this first devlog, I would like to talk about the custom scene system i wrote for my game, this system allows me to support runtime mod support in my game. It's currently very incomplete, for instance, it doesn't support the imporing of 3D models.
 
