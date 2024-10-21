@@ -62,4 +62,4 @@ I've wrote a pretty simple scene editor for editing scenes.
 
 The scene system has fairly basic 3D support, and primitive 2D support.
 
-Overall the scene system is core part of the engine I've buildt for my game.
+Overall the scene system is core part of the engine I've built for my game.
