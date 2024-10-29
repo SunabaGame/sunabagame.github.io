@@ -8,6 +8,7 @@ url: "https://sunaba.gg"
 twitter_username: mintkatDev
 github_username:  m1ntkat
 
+google_analytics: G-M6FEVBYZXR
 theme: minima
 plugins:
   - jekyll-feed
