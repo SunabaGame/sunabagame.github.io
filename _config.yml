@@ -9,10 +9,9 @@ twitter_username: mintkatDev
 github_username:  m1ntkat
 
 google_analytics: G-M6FEVBYZXR
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 sass:
   load_paths:
