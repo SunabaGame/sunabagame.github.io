@@ -5,8 +5,8 @@ description: >-
 domain: sunaba.gg 
 baseurl: "/"
 url: "https://sunaba.gg"
-twitter_username: mintkatDev
-github_username:  m1ntkat
+twitter_username: SunabaGame
+github_username:  sunabagg
 
 google_analytics: G-M6FEVBYZXR
 theme: minima
